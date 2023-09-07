@@ -1,0 +1,16 @@
+E:\1Visual_Repository\database trial\database trial\bin\Debug\database trial.exe.config
+E:\1Visual_Repository\database trial\database trial\bin\Debug\database trial.exe
+E:\1Visual_Repository\database trial\database trial\bin\Debug\database trial.pdb
+E:\1Visual_Repository\database trial\database trial\obj\Debug\database trial.csproj.AssemblyReference.cache
+E:\1Visual_Repository\database trial\database trial\obj\Debug\database trial.csproj.SuggestedBindingRedirects.cache
+E:\1Visual_Repository\database trial\database trial\obj\Debug\database_trial.Form1.resources
+E:\1Visual_Repository\database trial\database trial\obj\Debug\database_trial.Properties.Resources.resources
+E:\1Visual_Repository\database trial\database trial\obj\Debug\database trial.csproj.GenerateResource.cache
+E:\1Visual_Repository\database trial\database trial\obj\Debug\database trial.csproj.CoreCompileInputs.cache
+E:\1Visual_Repository\database trial\database trial\obj\Debug\database trial.exe
+E:\1Visual_Repository\database trial\database trial\obj\Debug\database trial.pdb
+E:\1Visual_Repository\database trial\database trial\bin\Debug\Guna.UI2.dll
+E:\1Visual_Repository\database trial\database trial\bin\Debug\MetroFramework.Design.dll
+E:\1Visual_Repository\database trial\database trial\bin\Debug\MetroFramework.dll
+E:\1Visual_Repository\database trial\database trial\bin\Debug\MetroFramework.Fonts.dll
+E:\1Visual_Repository\database trial\database trial\obj\Debug\database trial.csproj.CopyComplete
